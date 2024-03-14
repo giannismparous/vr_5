@@ -1,47 +1,217 @@
 #: locale=en
 
+## Action
+
+### URL
+PopupWebFrameBehaviour_27A48772_3D5A_B807_41A1_24AA22D0F3E8.url = https://finders.co.il/about/
+PopupWebFrameBehaviour_292E7E59_3A25_75DA_41AA_77988DA50390.url = https://finders.co.il/about/
+PopupWebFrameBehaviour_292A0E68_3A25_75FA_41BC_35EA729D9B44.url = https://finders.co.il/contact-2/
+PopupWebFrameBehaviour_27A7B77F_3D5A_B8FD_41C5_868222B91A24.url = https://finders.co.il/contact-2/
+PopupWebFrameBehaviour_29294E65_3A25_75EA_41C7_6D8A41E539AB.url = https://finders.co.il/crete-real-estate-investments/
+PopupWebFrameBehaviour_27A5E77D_3D5A_B8FD_41B3_7AEA31656FBE.url = https://finders.co.il/crete-real-estate-investments/
+PopupWebFrameBehaviour_1C00A9DF_3CA9_7863_41AF_F1BA4E723259.url = https://finders.co.il/en/about/
+PopupWebFrameBehaviour_27A01758_3D5A_B803_41C3_B873D915AB83.url = https://finders.co.il/en/about/
+PopupWebFrameBehaviour_28A1C3FB_3A27_32DE_41C7_8565AD85E59B.url = https://finders.co.il/en/about/
+PopupWebFrameBehaviour_27A28768_3D5A_B803_41B1_F840F837A186.url = https://finders.co.il/en/about/
+PopupWebFrameBehaviour_1C0529E7_3CA9_7823_41B5_C7DABF8BBBB1.url = https://finders.co.il/en/contact/
+PopupWebFrameBehaviour_27A2E765_3D5A_B80D_41BB_C66704D2025C.url = https://finders.co.il/en/contact/
+PopupWebFrameBehaviour_27A3876F_3D5A_B81D_41B2_48FDD01540CA.url = https://finders.co.il/en/contact/
+PopupWebFrameBehaviour_290AC89F_3A23_5D55_41C3_A2637ABF00CF.url = https://finders.co.il/en/contact/
+PopupWebFrameBehaviour_27A29763_3D5A_B805_41C0_2C2F50074263.url = https://finders.co.il/en/crete-real-estate-investments/
+PopupWebFrameBehaviour_291865AA_3A22_D77E_41C2_4959555E9A5F.url = https://finders.co.il/en/crete-real-estate-investments/
+PopupWebFrameBehaviour_1C0599E5_3CA9_7827_419D_55D66DA424A1.url = https://finders.co.il/en/crete-real-estate-investments/
+PopupWebFrameBehaviour_27A4A76D_3D5A_B81D_41BA_994FDA2834A5.url = https://finders.co.il/en/crete-real-estate-investments/
+PopupWebFrameBehaviour_1C0239E1_3CA9_785F_41A2_E673A1812247.url = https://finders.co.il/en/our-services/
+PopupWebFrameBehaviour_27DF6760_3D5A_B803_41CB_8622A4397308.url = https://finders.co.il/en/our-services/
+PopupWebFrameBehaviour_27A3576A_3D5A_B807_4198_183EB749932B.url = https://finders.co.il/en/our-services/
+PopupWebFrameBehaviour_293B4445_3A25_5535_41C7_98CE60E7398E.url = https://finders.co.il/en/our-services/
+PopupWebFrameBehaviour_1C0349E3_3CA9_7823_4199_0117A63ECBAF.url = https://finders.co.il/en/real-estate-investing-athens/
+PopupWebFrameBehaviour_27A22762_3D5A_B807_41B6_D7770C3AF070.url = https://finders.co.il/en/real-estate-investing-athens/
+PopupWebFrameBehaviour_27A4376C_3D5A_B803_41C3_A2D26AFE76BE.url = https://finders.co.il/en/real-estate-investing-athens/
+PopupWebFrameBehaviour_2919D707_3A25_7336_41B9_54D2028DDEBC.url = https://finders.co.il/en/real-estate-investing-athens/
+PopupWebFrameBehaviour_29291E5C_3A25_75DA_41CC_B977D0A59A93.url = https://finders.co.il/our-services/
+PopupWebFrameBehaviour_27A54774_3D5A_B803_41CB_42D4C0557580.url = https://finders.co.il/our-services/
+PopupWebFrameBehaviour_29299E65_3A25_75EA_41B5_F02B3301FED2.url = https://finders.co.il/real-estate-investing-athens/
+PopupWebFrameBehaviour_27A6777B_3D5A_B805_41C4_7CCAB1E9D5AD.url = https://finders.co.il/real-estate-investing-athens/
+LinkBehaviour_1DEF7D35_3CBB_5824_41C3_54A0FD7442E8.source = https://www.facebook.com/finders.T.M.I/
+LinkBehaviour_27AA2788_3D5A_B803_41C8_168BD6919BE9.source = https://www.facebook.com/finders.T.M.I/
+LinkBehaviour_1CDCBD9E_3CBB_38E4_41CC_23567B50D707.source = https://www.linkedin.com/in/info-finderstmi/?originalSubdomain=il
+LinkBehaviour_27AC4789_3D5A_B805_41BC_A8F32B982E1E.source = https://www.linkedin.com/in/info-finderstmi/?originalSubdomain=il
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_6E620D16_39A3_1A89_4197_822341D6FF90.text = Bathroom 1
+HotspotPanoramaOverlayTextImage_7B474732_3A65_1688_41CC_6FC6C00E066D.text = Bathroom 2
+HotspotPanoramaOverlayTextImage_165FBC78_3A7D_1B78_41CA_1A1744EC6E85.text = Bathroom 3
+HotspotPanoramaOverlayTextImage_16504D3E_3A7F_1AF8_41C3_3EA20DC4783B.text = Bathroom 3
+HotspotPanoramaOverlayTextImage_167EEA71_3A63_3E8B_41C0_7477EC36B5B5.text = Bathroom 3
+HotspotPanoramaOverlayTextImage_16DCB6B2_3A63_3788_41AD_1D793967A408.text = Living Room
+HotspotPanoramaOverlayTextImage_16919422_3A65_0A89_41CB_083F00A0D76C.text = Living Room
+HotspotPanoramaOverlayTextImage_2BFC615A_3D5A_D807_41AE_F63DDE5F69E4.text = Living Room
+HotspotPanoramaOverlayTextImage_16DA6F34_3A65_7688_41C5_ADA51E01ABED.text = Master Room
+HotspotPanoramaOverlayTextImage_1416B784_3A65_3588_41CC_847AA7C293D7.text = Master Room
+HotspotPanoramaOverlayTextImage_0D5AA558_3A6F_0AB8_41AD_8D9785792501.text = Room 1
+HotspotPanoramaOverlayTextImage_171FDC5A_3A6F_1AB8_41A1_7AFB9D0C3E5A.text = Room 2
+HotspotPanoramaOverlayTextImage_09761BBB_3A6D_3DF8_41B9_07C4DE1C4E1F.text = Room 2
+
 ## Media
 
+### Floorplan
+
+### Image
+imlevel_3157BF64_3DE3_6593_41C3_0693B001B4DF.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_0.png
+imlevel_3157AF65_3DE3_659D_4151_96781BA1B8AE.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_1.png
+imlevel_31578F66_3DE3_659F_41BF_6BB1D8AA02F1.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_2.png
+imlevel_31576F66_3DE3_659F_41C6_C602889DE6A6.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_3.png
+imlevel_2CF2618D_3D26_B81D_41B7_0FC5AB98C1AC.url = media/panorama_222D02F2_32E6_FFD9_417D_B1499EB27EE3_HS_k37wwu30_en.png
+imlevel_2D596256_3D26_B80C_4196_66D8466862C2.url = media/panorama_222D398D_32E6_AA48_41C6_D2831C83FE6B_HS_xssbxevg_en.png
+imlevel_2DAE32CE_3D26_B81F_41AA_02F01D46AF4E.url = media/panorama_222DA0A6_32E6_BA79_4152_6494E5BE6404_HS_2qc1i6dg_en.png
+imlevel_2D50728B_3D26_B805_41B4_93FFC1B96C46.url = media/panorama_222DA0A6_32E6_BA79_4152_6494E5BE6404_HS_gfhfb7gy_en.png
+imlevel_2DAC1363_3D26_B805_4177_BA52A41B757B.url = media/panorama_226084B4_323E_5A59_41B8_27A03FD97694_HS_kbxbly1g_en.png
+imlevel_2DABC3AA_3D26_B807_41BB_80E76FA017C2.url = media/panorama_22608A07_323E_6E47_41C5_0DB8C5BECC6A_HS_yb3pbost_en.png
+imlevel_2DBFE4A2_3D26_B807_41C2_BC77AB085E70.url = media/panorama_22609318_323E_DE48_41C4_3DDBC6B9A4CF_HS_87mfumca_en.png
+imlevel_2DA9846F_3D26_B81E_41C6_732C35E4E53C.url = media/panorama_2260EC55_323E_AADB_41BC_9FEF0DDBE692_HS_t5us82am_en.png
+imlevel_2DAA343C_3D26_B803_41C4_20B5E4B91ED9.url = media/panorama_2260EEC8_323E_A7C9_41C7_B8BB7F3D0973_HS_jygsrijd_en.png
+imlevel_2DAD1311_3D26_B805_41B7_E1D768C1752C.url = media/panorama_22619D74_323F_AAD9_41C2_3789FA4B22C0_HS_puhawf8j_en.png
+imlevel_2DAB23EC_3D26_B803_419E_45DE8BD2EB4A.url = media/panorama_2267214E_323E_5AC9_41C2_7D6E0BCAFAA9_HS_lc58g6rm_en.png
+imlevel_2A666542_3D66_B807_4183_50AFE390E226.url = media/panorama_2802012D_3D5F_581D_41A2_0C82165E4404_HS_tjmsql2d_en.png
+imlevel_2CEDC160_3D26_B802_4180_DB5845894358.url = media/panorama_3E6005DB_323F_A5C8_41C3_DF14B0FB8CBD_HS_j0w2r2s0_en.png
+
 ### Title
-panorama_205E246B_321B_FACF_41C1_181F3791FC7D.label = IMG_20240312_083317_00_merged
+panorama_22608A07_323E_6E47_41C5_0DB8C5BECC6A.label = Balcony 1
+panorama_2802012D_3D5F_581D_41A2_0C82165E4404.label = Balcony 2
+panorama_2260EC55_323E_AADB_41BC_9FEF0DDBE692.label = Balcony 2-old
+panorama_222CBB56_32E6_EED9_41C6_0FC4B29A0135.label = Bathroom 1
+panorama_222D2169_32E6_DACB_41C3_C4CB5C876B06.label = Bathroom 2
+panorama_22608807_323E_AA47_41C2_EC61B5013E12.label = Bathroom 3
 panorama_230D504A_32E6_BAC9_419A_4E6202062131.label = IMG_20240312_083434_00_merged
 panorama_222D66D2_32E6_A7D9_418C_A3B18D613B87.label = IMG_20240312_083512_00_merged
 panorama_222CED34_32E6_AA59_41C7_AE1D5D06A7DC.label = IMG_20240312_083636_00_merged
 panorama_222DC41E_32E6_DA49_41C5_57AF687F36F0.label = IMG_20240312_083723_00_merged
-panorama_222CBB56_32E6_EED9_41C6_0FC4B29A0135.label = IMG_20240312_083821_00_merged
 panorama_222D02F2_32E6_FFD9_417D_B1499EB27EE3.label = IMG_20240312_083901_00_merged
 panorama_222D4A30_32E6_EE59_41AE_B909CB419C84.label = IMG_20240312_083940_00_merged
-panorama_222D2169_32E6_DACB_41C3_C4CB5C876B06.label = IMG_20240312_084317_00_merged
 panorama_222D398D_32E6_AA48_41C6_D2831C83FE6B.label = IMG_20240312_084428_00_merged
 panorama_222DA0A6_32E6_BA79_4152_6494E5BE6404.label = IMG_20240312_084520_00_merged
 panorama_222D0810_32E6_AA59_41B5_E985C40AA304.label = IMG_20240312_084634_00_merged
-panorama_2261CC66_323F_EAF9_41A5_D3C02522A8A2.label = IMG_20240312_084729_00_merged
 panorama_2261836E_323F_DEC9_418F_11273CE2B6F9.label = IMG_20240312_084834_00_merged
 panorama_22613C23_323F_AA7F_41AC_82C766C613A7.label = IMG_20240312_084950_00_merged
-panorama_2261651E_323F_BA48_41AF_E8951BF3C554.label = IMG_20240312_085036_00_merged
 panorama_22619D74_323F_AAD9_41C2_3789FA4B22C0.label = IMG_20240312_085144_00_merged
-panorama_226084B4_323E_5A59_41B8_27A03FD97694.label = IMG_20240312_085302_00_merged
 panorama_22606B9F_323E_6E47_41A4_33F0EBCE1655.label = IMG_20240312_085416_00_merged
 panorama_2260E30E_323E_7E49_41B1_CD0C088F77CF.label = IMG_20240312_085511_00_merged
-panorama_22608A07_323E_6E47_41C5_0DB8C5BECC6A.label = IMG_20240312_085704_00_merged
 panorama_2267214E_323E_5AC9_41C2_7D6E0BCAFAA9.label = IMG_20240312_085901_00_merged
-panorama_22608807_323E_AA47_41C2_EC61B5013E12.label = IMG_20240312_090015_00_merged
 panorama_2260EEC8_323E_A7C9_41C7_B8BB7F3D0973.label = IMG_20240312_090151_00_merged
 panorama_2260959F_323E_BA48_41C6_CC0293C93D97.label = IMG_20240312_090300_00_merged
-panorama_2260EC55_323E_AADB_41BC_9FEF0DDBE692.label = IMG_20240312_090508_00_merged
 panorama_22609318_323E_DE48_41C4_3DDBC6B9A4CF.label = IMG_20240312_090732_00_merged
+panorama_205E246B_321B_FACF_41C1_181F3791FC7D.label = Living Room
+panorama_226084B4_323E_5A59_41B8_27A03FD97694.label = Master Room
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A.label = Photo Album balcony
+panorama_2261CC66_323F_EAF9_41A5_D3C02522A8A2.label = Room 1
+panorama_2261651E_323F_BA48_41AF_E8951BF3C554.label = Room 2
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_10.label = Untitled-1
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_19.label = Untitled-10
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_20.label = Untitled-11
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_21.label = Untitled-15
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_11.label = Untitled-2
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_12.label = Untitled-3
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_13.label = Untitled-4
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_14.label = Untitled-5
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_15.label = Untitled-6
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_16.label = Untitled-7
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_17.label = Untitled-8
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_18.label = Untitled-9
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_0.label = balcony
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_1.label = bathroom
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_2.label = best
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_3.label = couch
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_4.label = diner
 panorama_3E6005DB_323F_A5C8_41C3_DF14B0FB8CBD.label = elena_panorama
 video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8.label = elena_video_exported
+video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E.label = elena_video_exported_fixed
+map_31C52620_3D29_B803_41B2_CA9B165067B9.label = floorplan
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_5.label = kichen
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_6.label = master
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_7.label = outside
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_8.label = salloon
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_9.label = saloon 2
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_22.label = water
+album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_23.label = wow
 
 ### Video
-videolevel_38B8FC0E_34E6_B1C1_41C5_1C36D3878B28.url = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_en.mp4
-videolevel_38B8FC0E_34E6_B1C1_41C5_1C36D3878B28.posterURL = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_poster_en.jpg
+videolevel_3154AFBE_3DE3_64EC_41B9_1A0324D37C68.url = media/video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E_en.mp4
+videolevel_3154AFBE_3DE3_64EC_41B9_1A0324D37C68.posterURL = media/video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E_poster_en.jpg
+videolevel_314D1F30_3DE3_65F4_41C3_278550618C08.url = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_en.mp4
+videolevel_314D1F30_3DE3_65F4_41C3_278550618C08.posterURL = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_poster_en.jpg
 
 ### Video Subtitles
+
+## Skin
+
+### Button
+Button_1C1C69DF_3CA9_7863_41B2_9D3A5BD9745A.label = About us
+Button_1C1C69DF_3CA9_7863_41B2_9D3A5BD9745A_mobile.label = About us
+Button_1C1CF9DE_3CA9_7865_41BE_6F7947D0C8DD_mobile.label = Brochure
+Button_1C1CF9DE_3CA9_7865_41BE_6F7947D0C8DD.label = Brochure
+Button_1C0319E6_3CA9_7825_41C1_968903C71AA6_mobile.label = Contact us
+Button_1C0319E6_3CA9_7825_41C1_968903C71AA6.label = Contact us
+Button_28648302_3A2D_332E_41C9_4489B9996C64.pressedLabel = Inserdt Text
+Button_292FFE5C_3A25_75DA_41C8_2990EBB1D911_mobile.pressedLabel = Inserdt Text
+Button_1C0239E1_3CA9_785F_41C1_C05ED396B104.pressedLabel = Inserdt Text
+Button_28648302_3A2D_332E_41C9_4489B9996C64_mobile.pressedLabel = Inserdt Text
+Button_1C0239E1_3CA9_785F_41C1_C05ED396B104_mobile.pressedLabel = Inserdt Text
+Button_292FFE5C_3A25_75DA_41C8_2990EBB1D911.pressedLabel = Inserdt Text
+Button_1C0239E1_3CA9_785F_41C1_C05ED396B104.label = Our Services
+Button_1C0239E1_3CA9_785F_41C1_C05ED396B104_mobile.label = Our Services
+Button_1C0359E3_3CA9_7823_4197_34565CD4F0C9.label = Properties in Athens
+Button_1C0359E3_3CA9_7823_4197_34565CD4F0C9_mobile.label = Properties in Athens
+Button_1C03C9E4_3CA9_7825_41A0_9CBED0F3DDCA.label = Properties in Crete
+Button_1C03C9E4_3CA9_7825_41A0_9CBED0F3DDCA_mobile.label = Properties in Crete
+Button_28672302_3A2D_332E_41AB_27AABE48BFC6_mobile.label = Prospectus
+Button_28672302_3A2D_332E_41AB_27AABE48BFC6.label = Prospectus
+Button_2864C302_3A2D_332E_41CA_A6FA51A4F4CC_mobile.label = Διαμερίσματα στην Αθήνα
+Button_2864C302_3A2D_332E_41CA_A6FA51A4F4CC.label = Διαμερίσματα στην Αθήνα
+Button_28665302_3A2D_332E_41B8_E50266703FC7_mobile.label = Διαμερίσματα στην Κρήτη
+Button_28665302_3A2D_332E_41B8_E50266703FC7.label = Διαμερίσματα στην Κρήτη
+Button_28678302_3A2D_332E_41A5_4E984C2707AC_mobile.label = Επικοινωνήστε μαζί μας
+Button_28678302_3A2D_332E_41A5_4E984C2707AC.label = Επικοινωνήστε μαζί μας
+Button_28648302_3A2D_332E_41C9_4489B9996C64.label = Οι υπηρεσίες μας
+Button_28648302_3A2D_332E_41C9_4489B9996C64_mobile.label = Οι υπηρεσίες μας
+Button_28676302_3A2D_332E_41C4_2107BA8BD920_mobile.label = Σχετικά με εμάς
+Button_28676302_3A2D_332E_41C4_2107BA8BD920.label = Σχετικά με εμάς
+Button_2922EE56_3A25_75D6_41C2_53405C792DBA_mobile.label = אודות
+Button_2922EE56_3A25_75D6_41C2_53405C792DBA.label = אודות
+Button_292FFE5C_3A25_75DA_41C8_2990EBB1D911.label = השירותים שלנו
+Button_292FFE5C_3A25_75DA_41C8_2990EBB1D911_mobile.label = השירותים שלנו
+Button_2921CE56_3A25_75D6_41B9_A89A3B8123DB.label = חוֹבֶרֶת
+Button_2921CE56_3A25_75D6_41B9_A89A3B8123DB_mobile.label = חוֹבֶרֶת
+Button_292ADE68_3A25_75FA_41C9_38A1BA319A1F_mobile.label = יצירת קשר
+Button_292ADE68_3A25_75FA_41C9_38A1BA319A1F.label = יצירת קשר
+Button_292E7E62_3A25_75EE_41BA_82831D69CEED.label = נדל”ן באתונה
+Button_292E7E62_3A25_75EE_41BA_82831D69CEED_mobile.label = נדל”ן באתונה
+Button_29296E65_3A25_75EA_41C1_59DD8681E0F8_mobile.label = נדל”ן בכרתים
+Button_29296E65_3A25_75EA_41C1_59DD8681E0F8.label = נדל”ן בכרתים
+
+### Image
+Image_18FDADA6_3DE8_F825_41C2_9E5202B9175B.url = skin/Image_18FDADA6_3DE8_F825_41C2_9E5202B9175B_en.png
+Image_18FDADA6_3DE8_F825_41C2_9E5202B9175B_mobile.url = skin/Image_18FDADA6_3DE8_F825_41C2_9E5202B9175B_mobile_en.png
+Image_1C312690_3CB9_48FC_41CB_C326B9440743.url = skin/Image_1C312690_3CB9_48FC_41CB_C326B9440743_en.png
+Image_1C312690_3CB9_48FC_41CB_C326B9440743_mobile.url = skin/Image_1C312690_3CB9_48FC_41CB_C326B9440743_mobile_en.png
+Image_1C8CAC0C_3CB7_3FE5_41A0_144C7D30D985.url = skin/Image_1C8CAC0C_3CB7_3FE5_41A0_144C7D30D985_en.png
+Image_1C8CAC0C_3CB7_3FE5_41A0_144C7D30D985_mobile.url = skin/Image_1C8CAC0C_3CB7_3FE5_41A0_144C7D30D985_mobile_en.png
+Image_29185E54_3A25_752A_41C1_185242B27D30.url = skin/Image_29185E54_3A25_752A_41C1_185242B27D30_en.png
+Image_29185E54_3A25_752A_41C1_185242B27D30_mobile.url = skin/Image_29185E54_3A25_752A_41C1_185242B27D30_mobile_en.png
+Image_2976DED5_3A22_D2D5_41C5_1DE8CF5589CD.url = skin/Image_2976DED5_3A22_D2D5_41C5_1DE8CF5589CD_en.png
+Image_2976DED5_3A22_D2D5_41C5_1DE8CF5589CD_mobile.url = skin/Image_2976DED5_3A22_D2D5_41C5_1DE8CF5589CD_mobile_en.png
+Image_31E92CA8_3C78_F82C_41B8_3D03EABB3313.url = skin/Image_31E92CA8_3C78_F82C_41B8_3D03EABB3313_en.png
+Image_31E92CA8_3C78_F82C_41B8_3D03EABB3313_mobile.url = skin/Image_31E92CA8_3C78_F82C_41B8_3D03EABB3313_mobile_en.png
+Image_3214C9AD_3C69_5827_41A3_F2B5D4905F11.url = skin/Image_3214C9AD_3C69_5827_41A3_F2B5D4905F11_en.png
+Image_3214C9AD_3C69_5827_41A3_F2B5D4905F11_mobile.url = skin/Image_3214C9AD_3C69_5827_41A3_F2B5D4905F11_mobile_en.png
+Image_379FB7D1_3A22_D32A_416D_614826F15027.url = skin/Image_379FB7D1_3A22_D32A_416D_614826F15027_en.png
+Image_379FB7D1_3A22_D32A_416D_614826F15027_mobile.url = skin/Image_379FB7D1_3A22_D32A_416D_614826F15027_mobile_en.png
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 11
+tour.name = Finders
