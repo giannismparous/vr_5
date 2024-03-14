@@ -3,80 +3,54 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_27A48772_3D5A_B807_41A1_24AA22D0F3E8.url = https://finders.co.il/about/
 PopupWebFrameBehaviour_292E7E59_3A25_75DA_41AA_77988DA50390.url = https://finders.co.il/about/
-PopupWebFrameBehaviour_292A0E68_3A25_75FA_41BC_35EA729D9B44.url = https://finders.co.il/contact-2/
+PopupWebFrameBehaviour_27A48772_3D5A_B807_41A1_24AA22D0F3E8.url = https://finders.co.il/about/
 PopupWebFrameBehaviour_27A7B77F_3D5A_B8FD_41C5_868222B91A24.url = https://finders.co.il/contact-2/
-PopupWebFrameBehaviour_29294E65_3A25_75EA_41C7_6D8A41E539AB.url = https://finders.co.il/crete-real-estate-investments/
+PopupWebFrameBehaviour_292A0E68_3A25_75FA_41BC_35EA729D9B44.url = https://finders.co.il/contact-2/
 PopupWebFrameBehaviour_27A5E77D_3D5A_B8FD_41B3_7AEA31656FBE.url = https://finders.co.il/crete-real-estate-investments/
-PopupWebFrameBehaviour_1C00A9DF_3CA9_7863_41AF_F1BA4E723259.url = https://finders.co.il/en/about/
-PopupWebFrameBehaviour_27A01758_3D5A_B803_41C3_B873D915AB83.url = https://finders.co.il/en/about/
-PopupWebFrameBehaviour_28A1C3FB_3A27_32DE_41C7_8565AD85E59B.url = https://finders.co.il/en/about/
+PopupWebFrameBehaviour_29294E65_3A25_75EA_41C7_6D8A41E539AB.url = https://finders.co.il/crete-real-estate-investments/
 PopupWebFrameBehaviour_27A28768_3D5A_B803_41B1_F840F837A186.url = https://finders.co.il/en/about/
-PopupWebFrameBehaviour_1C0529E7_3CA9_7823_41B5_C7DABF8BBBB1.url = https://finders.co.il/en/contact/
-PopupWebFrameBehaviour_27A2E765_3D5A_B80D_41BB_C66704D2025C.url = https://finders.co.il/en/contact/
+PopupWebFrameBehaviour_28A1C3FB_3A27_32DE_41C7_8565AD85E59B.url = https://finders.co.il/en/about/
+PopupWebFrameBehaviour_27A01758_3D5A_B803_41C3_B873D915AB83.url = https://finders.co.il/en/about/
+PopupWebFrameBehaviour_1C00A9DF_3CA9_7863_41AF_F1BA4E723259.url = https://finders.co.il/en/about/
 PopupWebFrameBehaviour_27A3876F_3D5A_B81D_41B2_48FDD01540CA.url = https://finders.co.il/en/contact/
 PopupWebFrameBehaviour_290AC89F_3A23_5D55_41C3_A2637ABF00CF.url = https://finders.co.il/en/contact/
-PopupWebFrameBehaviour_27A29763_3D5A_B805_41C0_2C2F50074263.url = https://finders.co.il/en/crete-real-estate-investments/
+PopupWebFrameBehaviour_1C0529E7_3CA9_7823_41B5_C7DABF8BBBB1.url = https://finders.co.il/en/contact/
+PopupWebFrameBehaviour_27A2E765_3D5A_B80D_41BB_C66704D2025C.url = https://finders.co.il/en/contact/
 PopupWebFrameBehaviour_291865AA_3A22_D77E_41C2_4959555E9A5F.url = https://finders.co.il/en/crete-real-estate-investments/
-PopupWebFrameBehaviour_1C0599E5_3CA9_7827_419D_55D66DA424A1.url = https://finders.co.il/en/crete-real-estate-investments/
+PopupWebFrameBehaviour_27A29763_3D5A_B805_41C0_2C2F50074263.url = https://finders.co.il/en/crete-real-estate-investments/
 PopupWebFrameBehaviour_27A4A76D_3D5A_B81D_41BA_994FDA2834A5.url = https://finders.co.il/en/crete-real-estate-investments/
-PopupWebFrameBehaviour_1C0239E1_3CA9_785F_41A2_E673A1812247.url = https://finders.co.il/en/our-services/
-PopupWebFrameBehaviour_27DF6760_3D5A_B803_41CB_8622A4397308.url = https://finders.co.il/en/our-services/
+PopupWebFrameBehaviour_1C0599E5_3CA9_7827_419D_55D66DA424A1.url = https://finders.co.il/en/crete-real-estate-investments/
 PopupWebFrameBehaviour_27A3576A_3D5A_B807_4198_183EB749932B.url = https://finders.co.il/en/our-services/
 PopupWebFrameBehaviour_293B4445_3A25_5535_41C7_98CE60E7398E.url = https://finders.co.il/en/our-services/
-PopupWebFrameBehaviour_1C0349E3_3CA9_7823_4199_0117A63ECBAF.url = https://finders.co.il/en/real-estate-investing-athens/
-PopupWebFrameBehaviour_27A22762_3D5A_B807_41B6_D7770C3AF070.url = https://finders.co.il/en/real-estate-investing-athens/
+PopupWebFrameBehaviour_1C0239E1_3CA9_785F_41A2_E673A1812247.url = https://finders.co.il/en/our-services/
+PopupWebFrameBehaviour_27DF6760_3D5A_B803_41CB_8622A4397308.url = https://finders.co.il/en/our-services/
 PopupWebFrameBehaviour_27A4376C_3D5A_B803_41C3_A2D26AFE76BE.url = https://finders.co.il/en/real-estate-investing-athens/
 PopupWebFrameBehaviour_2919D707_3A25_7336_41B9_54D2028DDEBC.url = https://finders.co.il/en/real-estate-investing-athens/
-PopupWebFrameBehaviour_29291E5C_3A25_75DA_41CC_B977D0A59A93.url = https://finders.co.il/our-services/
+PopupWebFrameBehaviour_1C0349E3_3CA9_7823_4199_0117A63ECBAF.url = https://finders.co.il/en/real-estate-investing-athens/
+PopupWebFrameBehaviour_27A22762_3D5A_B807_41B6_D7770C3AF070.url = https://finders.co.il/en/real-estate-investing-athens/
 PopupWebFrameBehaviour_27A54774_3D5A_B803_41CB_42D4C0557580.url = https://finders.co.il/our-services/
-PopupWebFrameBehaviour_29299E65_3A25_75EA_41B5_F02B3301FED2.url = https://finders.co.il/real-estate-investing-athens/
+PopupWebFrameBehaviour_29291E5C_3A25_75DA_41CC_B977D0A59A93.url = https://finders.co.il/our-services/
 PopupWebFrameBehaviour_27A6777B_3D5A_B805_41C4_7CCAB1E9D5AD.url = https://finders.co.il/real-estate-investing-athens/
-LinkBehaviour_1DEF7D35_3CBB_5824_41C3_54A0FD7442E8.source = https://www.facebook.com/finders.T.M.I/
+PopupWebFrameBehaviour_29299E65_3A25_75EA_41B5_F02B3301FED2.url = https://finders.co.il/real-estate-investing-athens/
 LinkBehaviour_27AA2788_3D5A_B803_41C8_168BD6919BE9.source = https://www.facebook.com/finders.T.M.I/
-LinkBehaviour_1CDCBD9E_3CBB_38E4_41CC_23567B50D707.source = https://www.linkedin.com/in/info-finderstmi/?originalSubdomain=il
+LinkBehaviour_1DEF7D35_3CBB_5824_41C3_54A0FD7442E8.source = https://www.facebook.com/finders.T.M.I/
 LinkBehaviour_27AC4789_3D5A_B805_41BC_A8F32B982E1E.source = https://www.linkedin.com/in/info-finderstmi/?originalSubdomain=il
-
-## Hotspot
-
-### Text
-HotspotPanoramaOverlayTextImage_6E620D16_39A3_1A89_4197_822341D6FF90.text = Bathroom 1
-HotspotPanoramaOverlayTextImage_7B474732_3A65_1688_41CC_6FC6C00E066D.text = Bathroom 2
-HotspotPanoramaOverlayTextImage_165FBC78_3A7D_1B78_41CA_1A1744EC6E85.text = Bathroom 3
-HotspotPanoramaOverlayTextImage_16504D3E_3A7F_1AF8_41C3_3EA20DC4783B.text = Bathroom 3
-HotspotPanoramaOverlayTextImage_167EEA71_3A63_3E8B_41C0_7477EC36B5B5.text = Bathroom 3
-HotspotPanoramaOverlayTextImage_16DCB6B2_3A63_3788_41AD_1D793967A408.text = Living Room
-HotspotPanoramaOverlayTextImage_16919422_3A65_0A89_41CB_083F00A0D76C.text = Living Room
-HotspotPanoramaOverlayTextImage_2BFC615A_3D5A_D807_41AE_F63DDE5F69E4.text = Living Room
-HotspotPanoramaOverlayTextImage_16DA6F34_3A65_7688_41C5_ADA51E01ABED.text = Master Room
-HotspotPanoramaOverlayTextImage_1416B784_3A65_3588_41CC_847AA7C293D7.text = Master Room
-HotspotPanoramaOverlayTextImage_0D5AA558_3A6F_0AB8_41AD_8D9785792501.text = Room 1
-HotspotPanoramaOverlayTextImage_171FDC5A_3A6F_1AB8_41A1_7AFB9D0C3E5A.text = Room 2
-HotspotPanoramaOverlayTextImage_09761BBB_3A6D_3DF8_41B9_07C4DE1C4E1F.text = Room 2
+LinkBehaviour_1CDCBD9E_3CBB_38E4_41CC_23567B50D707.source = https://www.linkedin.com/in/info-finderstmi/?originalSubdomain=il
 
 ## Media
+
+### Audio
+audiores_2F306E66_3EC7_6B65_41C0_D67C1ECF7F86.mp3Url = media/audio_2C7316A1_3EC6_FB9E_41CC_CD47FC880024_en.mp3
+audiores_2F59257C_3EC7_3966_41CA_FB8C6C1975D4.mp3Url = media/audio_2F7EE2A5_3EC5_1BE7_41B3_CCEE72DF64C5_en.mp3
 
 ### Floorplan
 
 ### Image
-imlevel_3157BF64_3DE3_6593_41C3_0693B001B4DF.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_0.png
-imlevel_3157AF65_3DE3_659D_4151_96781BA1B8AE.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_1.png
-imlevel_31578F66_3DE3_659F_41BF_6BB1D8AA02F1.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_2.png
-imlevel_31576F66_3DE3_659F_41C6_C602889DE6A6.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_3.png
-imlevel_2CF2618D_3D26_B81D_41B7_0FC5AB98C1AC.url = media/panorama_222D02F2_32E6_FFD9_417D_B1499EB27EE3_HS_k37wwu30_en.png
-imlevel_2D596256_3D26_B80C_4196_66D8466862C2.url = media/panorama_222D398D_32E6_AA48_41C6_D2831C83FE6B_HS_xssbxevg_en.png
-imlevel_2DAE32CE_3D26_B81F_41AA_02F01D46AF4E.url = media/panorama_222DA0A6_32E6_BA79_4152_6494E5BE6404_HS_2qc1i6dg_en.png
-imlevel_2D50728B_3D26_B805_41B4_93FFC1B96C46.url = media/panorama_222DA0A6_32E6_BA79_4152_6494E5BE6404_HS_gfhfb7gy_en.png
-imlevel_2DAC1363_3D26_B805_4177_BA52A41B757B.url = media/panorama_226084B4_323E_5A59_41B8_27A03FD97694_HS_kbxbly1g_en.png
-imlevel_2DABC3AA_3D26_B807_41BB_80E76FA017C2.url = media/panorama_22608A07_323E_6E47_41C5_0DB8C5BECC6A_HS_yb3pbost_en.png
-imlevel_2DBFE4A2_3D26_B807_41C2_BC77AB085E70.url = media/panorama_22609318_323E_DE48_41C4_3DDBC6B9A4CF_HS_87mfumca_en.png
-imlevel_2DA9846F_3D26_B81E_41C6_732C35E4E53C.url = media/panorama_2260EC55_323E_AADB_41BC_9FEF0DDBE692_HS_t5us82am_en.png
-imlevel_2DAA343C_3D26_B803_41C4_20B5E4B91ED9.url = media/panorama_2260EEC8_323E_A7C9_41C7_B8BB7F3D0973_HS_jygsrijd_en.png
-imlevel_2DAD1311_3D26_B805_41B7_E1D768C1752C.url = media/panorama_22619D74_323F_AAD9_41C2_3789FA4B22C0_HS_puhawf8j_en.png
-imlevel_2DAB23EC_3D26_B803_419E_45DE8BD2EB4A.url = media/panorama_2267214E_323E_5AC9_41C2_7D6E0BCAFAA9_HS_lc58g6rm_en.png
-imlevel_2A666542_3D66_B807_4183_50AFE390E226.url = media/panorama_2802012D_3D5F_581D_41A2_0C82165E4404_HS_tjmsql2d_en.png
-imlevel_2CEDC160_3D26_B802_4180_DB5845894358.url = media/panorama_3E6005DB_323F_A5C8_41C3_DF14B0FB8CBD_HS_j0w2r2s0_en.png
+imlevel_2B0A9417_3EC7_3EA3_4185_6E16ED90D134.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_0.png
+imlevel_2B0AB417_3EC7_3EA3_418F_68733270F0A6.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_1.png
+imlevel_2B0AA417_3EC7_3EA3_41B7_4B9CB38C5BE8.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_2.png
+imlevel_2B0AC418_3EC7_3EAD_41C2_314B8107507B.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_3.png
 
 ### Title
 panorama_22608A07_323E_6E47_41C5_0DB8C5BECC6A.label = Balcony 1
@@ -138,10 +112,10 @@ album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_22.label = water
 album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_23.label = wow
 
 ### Video
-videolevel_3154AFBE_3DE3_64EC_41B9_1A0324D37C68.url = media/video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E_en.mp4
-videolevel_3154AFBE_3DE3_64EC_41B9_1A0324D37C68.posterURL = media/video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E_poster_en.jpg
-videolevel_314D1F30_3DE3_65F4_41C3_278550618C08.url = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_en.mp4
-videolevel_314D1F30_3DE3_65F4_41C3_278550618C08.posterURL = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_poster_en.jpg
+videolevel_28F5E462_3EC7_3F62_4169_2AEFE17FD380.url = media/video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E_en.mp4
+videolevel_28F5E462_3EC7_3F62_4169_2AEFE17FD380.posterURL = media/video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E_poster_en.jpg
+videolevel_2B0BD3FF_3EC7_3963_41CE_652EE80C6A6B.url = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_en.mp4
+videolevel_2B0BD3FF_3EC7_3963_41CE_652EE80C6A6B.posterURL = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_poster_en.jpg
 
 ### Video Subtitles
 
