@@ -47,10 +47,10 @@ audiores_2F59257C_3EC7_3966_41CA_FB8C6C1975D4.mp3Url = media/audio_2F7EE2A5_3EC5
 ### Floorplan
 
 ### Image
-imlevel_2B0A9417_3EC7_3EA3_4185_6E16ED90D134.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_0.png
-imlevel_2B0AB417_3EC7_3EA3_418F_68733270F0A6.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_1.png
-imlevel_2B0AA417_3EC7_3EA3_41B7_4B9CB38C5BE8.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_2.png
-imlevel_2B0AC418_3EC7_3EAD_41C2_314B8107507B.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_3.png
+imlevel_26AFE018_3F45_16AD_41A1_EA20F2D8D210.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_0.png
+imlevel_26AF8018_3F45_16AD_41B9_BADBFF4C9C26.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_1.png
+imlevel_26AFA019_3F45_16AF_41B6_E914A9C4154C.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_2.png
+imlevel_26AFB019_3F45_16AF_41CC_B8800153CA24.url = media/map_31C52620_3D29_B803_41B2_CA9B165067B9_en_3.png
 
 ### Title
 panorama_22608A07_323E_6E47_41C5_0DB8C5BECC6A.label = Balcony 1
@@ -112,27 +112,43 @@ album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_22.label = water
 album_2503DD56_3D6E_A80F_41BA_0C4F548E6C6A_23.label = wow
 
 ### Video
-videolevel_28F5E462_3EC7_3F62_4169_2AEFE17FD380.url = media/video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E_en.mp4
-videolevel_28F5E462_3EC7_3F62_4169_2AEFE17FD380.posterURL = media/video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E_poster_en.jpg
-videolevel_2B0BD3FF_3EC7_3963_41CE_652EE80C6A6B.url = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_en.mp4
-videolevel_2B0BD3FF_3EC7_3963_41CE_652EE80C6A6B.posterURL = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_poster_en.jpg
+videolevel_26ACC054_3F45_16A5_41A7_E6594E8B0607.url = media/video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E_en.mp4
+videolevel_26ACC054_3F45_16A5_41A7_E6594E8B0607.posterURL = media/video_28F0324F_3D3E_F81D_41C9_A25BEC3B8C8E_poster_en.jpg
+videolevel_26AEE004_3F45_16A6_41B9_B2BF08B2AB07.url = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_en.mp4
+videolevel_26AEE004_3F45_16A6_41B9_B2BF08B2AB07.posterURL = media/video_3C9E2516_323E_BA59_41C8_3D2BC9D1B4C8_poster_en.jpg
 
 ### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_26B28DF1_3F45_E97F_41A0_6D49333B5E3B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This fully renovated and immaculately decorated apartment is on the 1st floor of a 6th floor excellently maintained apartment building and located in Koliatsou Square. The apartment's design is modern but elegant and consists of an open kitchen space, a spacious family living room, three capacious bed rooms, one of them is a master bedroom. The additional benefits of the apartment are </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">i) all rooms are spacious and natural well-lighted with a nice view to the square,</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">ii) electric shutters, </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iii) a satisfactory balcony that can host an outside small table </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iv) and a private storage room in the basement of the apartment building.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">v) the building is managed by a responsible building supervisor making sure the building is operating properly. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">It is a perfect and comfortable apartment to host a family or to use as students' sharing apartment or for a business use. </SPAN></DIV></BODY></HTML></div>
+htmlText_26661395_3F46_F9A7_4146_EC002E0569C5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This fully renovated and immaculately decorated apartment is on the 1st floor of a 6th floor excellently maintained apartment building and located in Koliatsou Square. The apartment's design is modern but elegant and consists of an open kitchen space, a spacious family living room, three capacious bed rooms, one of them is a master bedroom. The additional benefits of the apartment are </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">i) all rooms are spacious and natural well-lighted with a nice view to the square,</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">ii) electric shutters, </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iii) a satisfactory balcony that can host an outside small table </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iv) and a private storage room in the basement of the apartment building.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">v) the building is managed by a responsible building supervisor making sure the building is operating properly. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">It is a perfect and comfortable apartment to host a family or to use as students' sharing apartment or for a business use. </SPAN></DIV></BODY></HTML></div>
+htmlText_26AC6992_3F47_29BD_41CA_5E047EAE671A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This fully renovated and immaculately decorated apartment is on the 1st floor of a 6th floor excellently maintained apartment building and located in Koliatsou Square. The apartment's design is modern but elegant and consists of an open kitchen space, a spacious family living room, three capacious bed rooms, one of them is a master bedroom. The additional benefits of the apartment are </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">i) all rooms are spacious and natural well-lighted with a nice view to the square,</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">ii) electric shutters, </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iii) a satisfactory balcony that can host an outside small table </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iv) and a private storage room in the basement of the apartment building.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">v) the building is managed by a responsible building supervisor making sure the building is operating properly. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">It is a perfect and comfortable apartment to host a family or to use as students' sharing apartment or for a business use. </SPAN></DIV></BODY></HTML></div>
+htmlText_252C057A_3F45_396D_41B1_2905B20F5C4E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This fully renovated and immaculately decorated apartment is on the 1st floor of a 6th floor excellently maintained apartment building and located in Koliatsou Square. The apartment's design is modern but elegant and consists of an open kitchen space, a spacious family living room, three capacious bed rooms, one of them is a master bedroom. The additional benefits of the apartment are </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">i) all rooms are spacious and natural well-lighted with a nice view to the square,</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">ii) electric shutters, </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iii) a satisfactory balcony that can host an outside small table </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iv) and a private storage room in the basement of the apartment building.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">v) the building is managed by a responsible building supervisor making sure the building is operating properly. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">It is a perfect and comfortable apartment to host a family or to use as students' sharing apartment or for a business use. </SPAN></DIV></BODY></HTML></div>
+htmlText_2648868A_3F43_1BAD_41BF_E16258B179B8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This fully renovated and immaculately decorated apartment is on the 1st floor of a 6th floor excellently maintained apartment building and located in Koliatsou Square. The apartment's design is modern but elegant and consists of an open kitchen space, a spacious family living room, three capacious bed rooms, one of them is a master bedroom. The additional benefits of the apartment are </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">i) all rooms are spacious and natural well-lighted with a nice view to the square,</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">ii) electric shutters, </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iii) a satisfactory balcony that can host an outside small table </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iv) and a private storage room in the basement of the apartment building.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">v) the building is managed by a responsible building supervisor making sure the building is operating properly. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">It is a perfect and comfortable apartment to host a family or to use as students' sharing apartment or for a business use. </SPAN></DIV></BODY></HTML></div>
+htmlText_251A0C19_3F45_2EAF_41C8_C172137653B9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This fully renovated and immaculately decorated apartment is on the 1st floor of a 6th floor excellently maintained apartment building and located in Koliatsou Square. The apartment's design is modern but elegant and consists of an open kitchen space, a spacious family living room, three capacious bed rooms, one of them is a master bedroom. The additional benefits of the apartment are </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">i) all rooms are spacious and natural well-lighted with a nice view to the square,</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">ii) electric shutters, </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iii) a satisfactory balcony that can host an outside small table </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">iv) and a private storage room in the basement of the apartment building.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">v) the building is managed by a responsible building supervisor making sure the building is operating properly. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">It is a perfect and comfortable apartment to host a family or to use as students' sharing apartment or for a business use. </SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_26B0BDF0_3F45_E97D_41C6_B022442E8BC4.title = Property Description
+window_2665F395_3F46_F9A7_41CC_08AD37E5F196.title = Property Description
+window_26AC4991_3F47_29BF_41BF_7CEC8392BA88.title = Property Description
+window_2513D579_3F45_396F_41BF_A842DEF07786.title = Property Description
+window_264AA68A_3F43_1BAD_41C2_5FD0CD6B6CCA.title = Property Description
+window_251ADC18_3F45_2EAD_41C5_5CA123FE1A55.title = Property Description
 
 ## Skin
 
 ### Button
 Button_1C1C69DF_3CA9_7863_41B2_9D3A5BD9745A.label = About us
 Button_1C1C69DF_3CA9_7863_41B2_9D3A5BD9745A_mobile.label = About us
-Button_1C1CF9DE_3CA9_7865_41BE_6F7947D0C8DD_mobile.label = Brochure
-Button_1C1CF9DE_3CA9_7865_41BE_6F7947D0C8DD.label = Brochure
-Button_1C0319E6_3CA9_7825_41C1_968903C71AA6_mobile.label = Contact us
 Button_1C0319E6_3CA9_7825_41C1_968903C71AA6.label = Contact us
-Button_28648302_3A2D_332E_41C9_4489B9996C64.pressedLabel = Inserdt Text
-Button_292FFE5C_3A25_75DA_41C8_2990EBB1D911_mobile.pressedLabel = Inserdt Text
-Button_1C0239E1_3CA9_785F_41C1_C05ED396B104.pressedLabel = Inserdt Text
+Button_1C0319E6_3CA9_7825_41C1_968903C71AA6_mobile.label = Contact us
 Button_28648302_3A2D_332E_41C9_4489B9996C64_mobile.pressedLabel = Inserdt Text
+Button_292FFE5C_3A25_75DA_41C8_2990EBB1D911_mobile.pressedLabel = Inserdt Text
 Button_1C0239E1_3CA9_785F_41C1_C05ED396B104_mobile.pressedLabel = Inserdt Text
+Button_1C0239E1_3CA9_785F_41C1_C05ED396B104.pressedLabel = Inserdt Text
+Button_28648302_3A2D_332E_41C9_4489B9996C64.pressedLabel = Inserdt Text
 Button_292FFE5C_3A25_75DA_41C8_2990EBB1D911.pressedLabel = Inserdt Text
 Button_1C0239E1_3CA9_785F_41C1_C05ED396B104.label = Our Services
 Button_1C0239E1_3CA9_785F_41C1_C05ED396B104_mobile.label = Our Services
@@ -140,30 +156,32 @@ Button_1C0359E3_3CA9_7823_4197_34565CD4F0C9.label = Properties in Athens
 Button_1C0359E3_3CA9_7823_4197_34565CD4F0C9_mobile.label = Properties in Athens
 Button_1C03C9E4_3CA9_7825_41A0_9CBED0F3DDCA.label = Properties in Crete
 Button_1C03C9E4_3CA9_7825_41A0_9CBED0F3DDCA_mobile.label = Properties in Crete
-Button_28672302_3A2D_332E_41AB_27AABE48BFC6_mobile.label = Prospectus
-Button_28672302_3A2D_332E_41AB_27AABE48BFC6.label = Prospectus
-Button_2864C302_3A2D_332E_41CA_A6FA51A4F4CC_mobile.label = Διαμερίσματα στην Αθήνα
+Button_1C1CF9DE_3CA9_7865_41BE_6F7947D0C8DD.label = Property Description
+Button_1C1CF9DE_3CA9_7865_41BE_6F7947D0C8DD_mobile.label = Property Description
 Button_2864C302_3A2D_332E_41CA_A6FA51A4F4CC.label = Διαμερίσματα στην Αθήνα
-Button_28665302_3A2D_332E_41B8_E50266703FC7_mobile.label = Διαμερίσματα στην Κρήτη
+Button_2864C302_3A2D_332E_41CA_A6FA51A4F4CC_mobile.label = Διαμερίσματα στην Αθήνα
 Button_28665302_3A2D_332E_41B8_E50266703FC7.label = Διαμερίσματα στην Κρήτη
-Button_28678302_3A2D_332E_41A5_4E984C2707AC_mobile.label = Επικοινωνήστε μαζί μας
+Button_28665302_3A2D_332E_41B8_E50266703FC7_mobile.label = Διαμερίσματα στην Κρήτη
 Button_28678302_3A2D_332E_41A5_4E984C2707AC.label = Επικοινωνήστε μαζί μας
-Button_28648302_3A2D_332E_41C9_4489B9996C64.label = Οι υπηρεσίες μας
+Button_28678302_3A2D_332E_41A5_4E984C2707AC_mobile.label = Επικοινωνήστε μαζί μας
 Button_28648302_3A2D_332E_41C9_4489B9996C64_mobile.label = Οι υπηρεσίες μας
-Button_28676302_3A2D_332E_41C4_2107BA8BD920_mobile.label = Σχετικά με εμάς
+Button_28648302_3A2D_332E_41C9_4489B9996C64.label = Οι υπηρεσίες μας
+Button_28672302_3A2D_332E_41AB_27AABE48BFC6.label = Πληροφορίες Διαμερίσματος
+Button_28672302_3A2D_332E_41AB_27AABE48BFC6_mobile.label = Πληροφορίες διαμερίσματος
 Button_28676302_3A2D_332E_41C4_2107BA8BD920.label = Σχετικά με εμάς
-Button_2922EE56_3A25_75D6_41C2_53405C792DBA_mobile.label = אודות
+Button_28676302_3A2D_332E_41C4_2107BA8BD920_mobile.label = Σχετικά με εμάς
 Button_2922EE56_3A25_75D6_41C2_53405C792DBA.label = אודות
-Button_292FFE5C_3A25_75DA_41C8_2990EBB1D911.label = השירותים שלנו
+Button_2922EE56_3A25_75D6_41C2_53405C792DBA_mobile.label = אודות
 Button_292FFE5C_3A25_75DA_41C8_2990EBB1D911_mobile.label = השירותים שלנו
-Button_2921CE56_3A25_75D6_41B9_A89A3B8123DB.label = חוֹבֶרֶת
-Button_2921CE56_3A25_75D6_41B9_A89A3B8123DB_mobile.label = חוֹבֶרֶת
-Button_292ADE68_3A25_75FA_41C9_38A1BA319A1F_mobile.label = יצירת קשר
+Button_292FFE5C_3A25_75DA_41C8_2990EBB1D911.label = השירותים שלנו
 Button_292ADE68_3A25_75FA_41C9_38A1BA319A1F.label = יצירת קשר
-Button_292E7E62_3A25_75EE_41BA_82831D69CEED.label = נדל”ן באתונה
+Button_292ADE68_3A25_75FA_41C9_38A1BA319A1F_mobile.label = יצירת קשר
 Button_292E7E62_3A25_75EE_41BA_82831D69CEED_mobile.label = נדל”ן באתונה
+Button_292E7E62_3A25_75EE_41BA_82831D69CEED.label = נדל”ן באתונה
 Button_29296E65_3A25_75EA_41C1_59DD8681E0F8_mobile.label = נדל”ן בכרתים
 Button_29296E65_3A25_75EA_41C1_59DD8681E0F8.label = נדל”ן בכרתים
+Button_2921CE56_3A25_75D6_41B9_A89A3B8123DB.label = תיאור הנכס
+Button_2921CE56_3A25_75D6_41B9_A89A3B8123DB_mobile.label = תיאור הנכס
 
 ### Image
 Image_18FDADA6_3DE8_F825_41C2_9E5202B9175B.url = skin/Image_18FDADA6_3DE8_F825_41C2_9E5202B9175B_en.png
