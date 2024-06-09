@@ -31,5 +31,17 @@
 <body>
     <div id="preloadContainer" class="fill-viewport"><div style="z-index: 4; position: absolute; overflow: hidden; background-size: contain; background-image: url('loading/HTMLImage_7473958F_5CD8_D63A_419E_F6098563815A.gif'); background-repeat: no-repeat; background-position: center center; overflow: hidden; right: 0%; bottom: 25.93010146561443%; width: 100.00%; height: 43.18%" ></div></div>
     <div id="viewer" class="fill-viewport"></div>
+    <script>
+      window.addEventListener('message', (event) => {
+        if (event.data.type === 'overrideLinks') {
+          document.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', function(event) {
+              event.preventDefault();
+              window.open(this.href, '_blank');
+            });
+          });
+        }
+      });
+    </script>	
 </body>
 </html>
